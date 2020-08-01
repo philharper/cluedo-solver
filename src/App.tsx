@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import './App.css';
 import Player from './types/Player';
 import { Game } from './types/Game';
-import { DetectiveGrid } from './DetectiveGrid';
-import { CardSelectors } from './CardSelectors';
+import { DetectiveGrid } from './components/DetectiveGrid';
+import { CardSelectors } from './components/CardSelectors';
 import { Selection } from './types/Selection';
 import { Decision } from './types/Decision';
 
